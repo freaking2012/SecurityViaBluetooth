@@ -1,0 +1,42 @@
+1.
+
+This software requires java version 1.4.0 or more.
+
+If you get message saying "This application requires a Java Runtime Environment 1.4.0" on running the applicaiton, then it means you do not have java installed on your system.
+
+You can install the latest java or jre from here
+
+http://www.java.com/en/download/index.jsp
+
+/*-----------------------------------------------------------------------------------------------------------*/
+
+2.
+
+This software is designed and developed for windows operating system only. Later releases will be compatible with other operating systems also.
+
+Minimum RAM required : 256 MB
+
+/*-----------------------------------------------------------------------------------------------------------*/
+
+3.
+
+This software uses bluetooth of your computer and your cell phone
+
+You must have a cell phone with bluetooth capability
+
+You must have bluetooth in your system. Your laptop will most probably have bluetooth pre-installed. It needs to be enabled to run this software. On steps on how to enable bluetooth of your laptop you can consult Help.pdf file.
+
+Most of the desktop do not have pre-installed bluetooth. But if you have bluetooth device in your desktop computer, then this software will run without any problems.
+
+/*-------------------------------------------------------------------------------------------------------------*/
+
+4. 
+
+If you have the demo version, then you can get the full version by registering the software using the key given on the back of the CD cover. Full version have all the disabled options enabled in it that provide enhanced security features.
+
+/*-------------------------------------------------------------------------------------------------------------*/
+
+5.
+
+It's a security software used to keep your system and files secure. Install it at the location where you think it will be difficult for other users to find it.
+

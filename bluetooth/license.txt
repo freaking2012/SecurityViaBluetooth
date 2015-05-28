@@ -1,0 +1,11 @@
+LICENSE For SecureViaBluetooth
+
+1. The computer software, artwork and other components included in this version of product (collectively the "Software") are the exclusive copyrighted property. You must not (a) sell, rent, lease or sublicense all or any portion of the Software; (b) modify or prepare derivative works of the Software; (c) reverse engineer, decompile or disassemble the Software; (d) publish serial numbers or serial number generation algorithms.
+
+2. The Software may be distributed freely if the distribution package is not modified and if you give a link to SecureViaBluetooth home page. You must not bundle the Software in any other distribution packages and take distribution fees without our agreement.
+
+3. THE SOFTWARE IS DISTRIBUTED "AS IS". NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED. YOU USE THE SOFTWARE AT YOUR OWN RISK. THE AUTHORS WILL NOT BE LIABLE FOR DATA LOSS, DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF LOSS WHILE USING OR MISUSING THE SOFTWARE.
+
+4. The installation and the usage of the Software mean the acceptance of these terms and conditions of the license.
+
+5. If you do not agree with the terms of this license you must stop the usage of the Software and uninstall it.
